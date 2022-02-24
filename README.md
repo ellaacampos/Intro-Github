@@ -5,3 +5,6 @@
 Taller desarrollado por el **Google Developer Student**
 
  Sesión de github - introducción
+
+## Insertaremos una imagen
+
