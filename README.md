@@ -8,3 +8,4 @@ Taller desarrollado por el **Google Developer Student**
 
 ## Insertaremos una imagen
 
+![hack](img/kristopher-roller-PC_lbSSxCZE-unsplash.jpg)
